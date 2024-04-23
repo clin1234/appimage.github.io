@@ -31,7 +31,7 @@
     "png-to-ico": "^2.1.1",
     "request": "^2.88.2",
     "socksv5": "^0.0.6",
-    "ssh2": "^0.8.9",
+    "ssh2": "^1.15.0",
     "yaml": "^1.10.0",
     "youtube-transcript": "^1.0.6"
   },
