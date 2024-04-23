@@ -10,7 +10,7 @@
   "homepage": "wwwwprod5.digipen.edu",
   "main": "main.js",
   "dependencies": {
-    "angular": "1.7.0",
+    "angular": "1.8.3",
     "angular-animate": "1.7.0",
     "angular-aria": "1.7.0",
     "angular-material": "^1.1.5",
@@ -23,7 +23,7 @@
     "jszip": "^3.1.5",
     "promisepipe": "^2.1.1",
     "rxjs": "^5.5.7",
-    "semver": "^5.5.0",
+    "semver": "^7.6.0",
     "serialport": "^6.0.4",
     "username": "^3.0.0",
     "yargs": "^11.0.0",

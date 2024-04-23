@@ -49,7 +49,7 @@
     "filesize": "^3.6.1",
     "find-process": "^1.1.0",
     "ganache-cli": "6.1.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.21",
     "moment": "^2.17.1",
     "moment-timezone": "^0.5.11",
     "mousetrap": "^1.6.1",
@@ -57,7 +57,7 @@
     "pluralize": "^5.0.0",
     "rabin-bindings": "^1.7.4",
     "react": "^15.4.2",
-    "react-dom": "^15.6.2",
+    "react-dom": "^18.2.0",
     "react-hot-loader": "^3.1.1",
     "react-marked-markdown": "^1.4.6",
     "react-moment": "^0.2.2",
@@ -71,7 +71,7 @@
     "scrypt": "^6.0.3",
     "universal-analytics": "^0.4.13",
     "uuid": "^3.1.0",
-    "web3": "1.0.0-beta.27"
+    "web3": "1.5.3"
   },
   "devEngines": {
     "node": ">=6.x",
