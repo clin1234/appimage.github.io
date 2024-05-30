@@ -8,7 +8,7 @@
   "dependencies": {
     "@hitask/electron-ga": "^3.0.0",
     "assert": "^1.4.1",
-    "axios": "^0.18.0",
+    "axios": "^1.7.2",
     "custom-electron-titlebar": "^2.1.0",
     "dayjs": "^1.7.2",
     "decompress": "^4.2.0",
@@ -30,7 +30,7 @@
     "js-md5": "^0.7.3",
     "keytar": "^4.3.0",
     "local-gitignore": "^1.0.2",
-    "log4js": "^3.0.6",
+    "log4js": "^6.9.1",
     "mavon-editor": "^2.6.17",
     "mobx": "^5.0.3",
     "movue": "^0.3.0",
