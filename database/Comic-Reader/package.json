@@ -57,7 +57,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.7.2",
     "axios-extensions": "^3.0.5",
     "cheerio": "^1.0.0-rc.2",
     "chinese-conv": "^1.0.1",
@@ -66,7 +66,7 @@
     "devtron": "^1.4.0",
     "electron-debug": "^2.1.0",
     "electron-log": "^3.0.1",
-    "electron-updater": "^4.0.6",
+    "electron-updater": "^6.2.1",
     "express": "^4.16.4",
     "history": "^4.7.2",
     "react": "16.8.3",

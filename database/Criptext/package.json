@@ -19,7 +19,7 @@
     "@criptext/api": "^0.14.8",
     "@criptext/data-transfer-client": "^0.1.1",
     "@criptext/electron-better-ipc": "^0.1.2-rc4",
-    "electron-updater": "^3.0.3",
+    "electron-updater": "^6.2.1",
     "electron-window-state": "^4.1.1",
     "knex": "^0.14.2",
     "line-by-line": "^0.1.6",
