@@ -28,7 +28,7 @@
     "electron-is": "^3.0.0",
     "electron-localshortcut": "^3.1.0",
     "electron-store": "^2.0.0",
-    "electron-updater": "^3.2.0",
+    "electron-updater": "^6.2.1",
     "electron-window-state": "^5.0.1",
     "history": "^4.7.2",
     "jquery": "1.9.1",
