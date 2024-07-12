@@ -7,6 +7,6 @@
   "main": "main.js",
   "dependencies": {
     "unzipper": "^0.10.11",
-    "electron-updater": "^5.3.0"
+    "electron-updater": "^6.2.1"
   }
 }

@@ -14,7 +14,7 @@
     "electron-is-packaged": "^1.0.2",
     "electron-next": "^3.1.5",
     "electron-root-path": "^1.0.16",
-    "electron-updater": "^5.2.1",
+    "electron-updater": "^6.2.1",
     "image-size": "^1.0.2",
     "react-compare-slider": "^2.2.0",
     "react-dropzone": "^14.2.2",

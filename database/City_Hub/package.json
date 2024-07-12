@@ -21,6 +21,6 @@
   "dependencies": {
     "electron-context-menu": "^0.10.0",
     "electron-log": "^2.2.16",
-    "electron-updater": "^3.0.3"
+    "electron-updater": "^6.2.1"
   }
 }
