@@ -26,7 +26,7 @@
     "electron-log": "^4.3.2",
     "electron-overlay-window": "git://github.com/OhMyGuus/electron-overlay-window",
     "electron-store": "^6.0.1",
-    "electron-updater": "^4.3.5",
+    "electron-updater": "^6.2.1",
     "electron-window-state": "^5.0.3",
     "i18next": "^19.9.2",
     "jimp": "^0.16.1",
