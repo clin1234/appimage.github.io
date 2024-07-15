@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@trodi/electron-splashscreen": "^0.3.4",
-    "ag-grid-community": "^19.1.4",
+    "ag-grid-community": "^32.0.2",
     "async": "^2.6.1",
     "csv-writer": "^1.2.0",
     "electron-log": "^2.2.17",
