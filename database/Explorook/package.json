@@ -16,7 +16,7 @@
     "electron-updater": "^2.21.10",
     "full-text-search-light": "0.0.17",
     "graphql-yoga": "^1.14.8",
-    "isomorphic-git": "^0.19.9",
+    "isomorphic-git": "^1.25.10",
     "lodash": "^4.17.10",
     "uuid": "^3.2.1",
     "walk": "^2.3.13"
